@@ -53,15 +53,6 @@
 
 
 
------
-
-##  GitHub Stats
-
-<div align="center">
-
-![randoduck’s GitHub stats](https://github-readme-stats.vercel.app/api?username=randoduck&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ffd700&text_color=c9d1d9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randoduck&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&text_color=c9d1d9)
 
 </div>
 
@@ -69,6 +60,6 @@
 
 <div align="center">
 
-*“am i testing the code or is it testing me?”* 🦆
+*“am i testing the code or is it testing me?”* 
 
 </div>
