@@ -33,7 +33,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![CTF](https://img.shields.io/badge/CTF%20Player-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/Cryptography-6A0DAD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 ![Forensics](https://img.shields.io/badge/Forensics-2E86C1?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Binary Analysis](https://img.shields.io/badge/Binary%20Analysis-0D0D0D?style=for-the-badge&logo=assembly&logoColor=white)
