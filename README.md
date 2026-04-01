@@ -35,7 +35,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![CTF](https://img.shields.io/badge/CTF%20Player-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Cryptography](https://img.shields.io/badge/Cryptography-6A0DAD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
-![Forensics](https://img.shields.io/badge/Rev%20Eng-212121?style=for-the-badge&logo=gnubash&logoColor=lime)
+![Forensics](https://img.shields.io/badge/Forensics-2E86C1?style=for-the-badge&logo=hackthebox&logoColor=white)
 ![Binary Analysis](https://img.shields.io/badge/Binary%20Analysis-0D0D0D?style=for-the-badge&logo=assembly&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
