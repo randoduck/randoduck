@@ -3,7 +3,7 @@
 
 # hi, i’m <span style="color:#ec4556">**isha sarvani**</span> · `@randoduck` 
 
-* 🌺 Currently studying **B.Tech Data Science Engineering** · Manipal Institute of Technology
+* 🎴Currently studying **B.Tech Data Science Engineering** · Manipal Institute of Technology
 * 🌿 Im also a **Research Intern** · Hanze University of Applied Sciences, Netherlands
 * 🐟  Check out this tiny game called **Kill my Koi Pond** I built it exactly one day before my Operating System exams.
 
