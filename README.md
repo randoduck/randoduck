@@ -1,23 +1,24 @@
-<div align="center">
 
-### hi, i’m **isha** · `@randoduck` 
+<div align="left">
 
-*B.Tech Data Science Engineering · Manipal Institute of Technology*  
-*Research Intern @ Hanze University of Applied Sciences, Netherlands*
+# hi, i’m <span style="color:#ec4556">**isha sarvani**</span> · `@randoduck` 
 
+* 🌺 Currently studying **B.Tech Data Science Engineering** · Manipal Institute of Technology
+* 🌿 Im also a **Research Intern** · Hanze University of Applied Sciences, Netherlands
+* 🐟  Check out this tiny game called **Kill my Koi Pond** I built it exactly one day before my Operating System exams.
+
+</div>
+<p align="center">
 <a href="https://randoduck.github.io/kill-my-koi-pond/">
   <img src="koi_final.gif" height="250px" alt="Kill My Koi Pond">
 </a>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/isha-sarvani-8b3735266)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/randoduck)
 
 </div>
- 
 
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/isha-sarvani-8b3735266)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/randoduck)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -51,7 +52,6 @@
 
 </div>
 
------
 
 <div align="center">
 
