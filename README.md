@@ -6,7 +6,7 @@
 *Research Intern @ Hanze University of Applied Sciences, Netherlands*
 
 <a href="https://randoduck.github.io/kill-my-koi-pond/">
-  <img src="koifinal.gif" height="250px" alt="Kill My Koi Pond">
+  <img src="koi_final.gif" height="250px" alt="Kill My Koi Pond">
 </a>
 
 
