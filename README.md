@@ -1,9 +1,13 @@
 <div align="center">
 
-### hi, i’m **isha** · `@randoduck` 🦆
+### hi, i’m **isha** · `@randoduck` 
 
 *B.Tech Data Science Engineering · Manipal Institute of Technology*  
 *Research Intern @ Hanze University of Applied Sciences, Netherlands*
+<a href="https://randoduck.github.io/kill-my-koi-pond/">
+  <img src="koifinal.gif" height="250px" alt="Kill My Koi Pond">
+</a>
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/isha-sarvani-8b3735266)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/randoduck)
