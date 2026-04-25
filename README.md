@@ -6,7 +6,7 @@
 * 🍁Currently studying **B.Tech Data Science Engineering** · Manipal Institute of Technology
 * 🌿 **Research Intern** · Hanze University of Applied Sciences, Netherlands
 * 🎏 I am also a Senior Research Member at **[cryptonitemit.in](https://cryptonitemit.in/)**
-* 🐟  Check out this tiny game called **Kill my Koi Pond** I built it exactly one day before my Operating System exams.
+* 🐟  Check out this tiny game called **Kill my Koi Pond** I built it exactly one day before my Operating System exam.
 
 </div>
 <p align="center">
